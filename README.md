@@ -1,14 +1,14 @@
-# osrs-mcp
+# osrs mcp
 
 Old School RuneScape player hiscores + Grand Exchange data, straight from
 the official Jagex hiscores and the runescape.wiki prices API. No key.
 
 ## Tools
 
-- `get_player_stats` — levels, XP, clue scrolls, boss kill counts
-  (modes: normal / ironman / ultimate / hardcore / deadman)
-- `get_item_price` — current GE buy/sell for any item
-- `get_hot_items` — what's trading the most right now (volume, last hour)
+- `get_player_stats`, levels, XP, clue scrolls, boss kill counts
+(modes: normal / ironman / ultimate / hardcore / deadman)
+- `get_item_price`, current GE buy/sell for any item
+- `get_hot_items`, what's trading the most right now (volume, last hour)
 
 ## Run
 
